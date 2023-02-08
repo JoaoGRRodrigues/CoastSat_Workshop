@@ -11,6 +11,6 @@
 *.txt
 *.geojson
 *checkpoint.ipynb
-*.csv
 *.xml
 /deprecated
+data/*
